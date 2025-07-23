@@ -8,6 +8,7 @@ Tutorial Webstie: https://karpathy.ai/zero-to-hero.html
 1. "The spelled-out intro to neural networks and backpropagation: building micrograd"
 https://youtu.be/VMj-3S1tku0?si=yyJuclvWx0U3swJH
 
+Exercises are here: https://github.com/integralong/micrograd.notebook/blob/main/micrograd_exercises.ipynb
 
 
 2. "The spelled-out intro to language modelling: building makemore"
